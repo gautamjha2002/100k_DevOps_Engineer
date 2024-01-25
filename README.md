@@ -11,13 +11,13 @@ This roadmap outlines my learning plan for the next year with the goal of reachi
 ## Learning Objectives
 
 1. [x] **Computer Introduction**
-2. [x] **Operating System Intro**
-3. [ ] **DBMS**
+2. [x] **Operating System Intro (Optional)**
+3. [ ] **DBMS (Optional)**
 4. [ ] **MySQL**
 5. [ ] **Linux Administration**
 6. [ ] **Computer Networking**
 7. [ ] **Git**
-8. [ ] **Web Development (MERN)**
+8. [ ] **Web Development (MERN) (Optional)**
 9. [ ] **Software Engineering**
 10. [ ] **Golang**
 11. [ ] **Python**
